@@ -63,7 +63,7 @@ Full-Time Employees: 20 | Part-Time: 13 | Contract: 17
 
 ---
 
-##🧑‍💼 Author
+## 🧑‍💼 Author
 ```
 Adarsh C
 📧 adarshc@example.com
