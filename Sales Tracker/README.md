@@ -1,6 +1,6 @@
 # 📊 Sales Tracker Dashboard (Excel)
 
-![Sales Tracker Dashboard](https://github.com/your-username/your-repo-name/blob/main/dashboard.png?raw=true)
+
 
 ## 📝 Project Overview
 The **Sales Tracker Dashboard** is an interactive Excel-based reporting tool designed to monitor and analyze sales performance across different regions, product categories, and customer segments.  
