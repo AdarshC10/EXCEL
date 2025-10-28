@@ -61,8 +61,9 @@ Explore visuals to analyze sales performance and trends.
  ┣ 📘 README.md
 ```
 
-🧑‍💻 Developed By
-
+## 🧑‍💻 Developed By
+```
 Adarsh C
 📧 adarshcrv@gmail.com
 💼 Aspiring Data Analyst | Excel | SQL | Power BI | Python
+```
