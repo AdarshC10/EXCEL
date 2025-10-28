@@ -54,11 +54,11 @@ Around 47% of orders were completed on time.
 
 Explore visuals to analyze sales performance and trends.
 
-## 📁 File Structure
-📦 Sales-Tracker-Dashboard
+## 📦 Sales-Tracker-Dashboard
  ┣ 📊 Sales_Tracker_Dashboard.xlsx
  ┣ 🖼️ Dashboard_Screenshot.png
  ┣ 📘 README.md
+
 
 🧑‍💻 Developed By
 
