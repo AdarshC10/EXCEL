@@ -1,56 +1,54 @@
-📊 Sales Tracker Dashboard (Excel)
+# 📊 Sales Tracker Dashboard (Excel)
 
-📝 Project Overview
+![Sales Tracker Dashboard](https://github.com/your-username/your-repo-name/blob/main/dashboard.png?raw=true)
 
-The Sales Tracker Dashboard is an interactive Excel-based analytics tool designed to monitor and visualize key sales performance metrics across different regions, product categories, and payment types.
-It provides a clear, data-driven overview for business managers to make quick and informed decisions.
+## 📝 Project Overview
+The **Sales Tracker Dashboard** is an interactive Excel-based reporting tool designed to monitor and analyze sales performance across different regions, product categories, and customer segments.  
 
-🎯 Dashboard Highlights
+It helps decision-makers visualize KPIs such as **total profit, regional sales, payment type distribution, category-wise performance**, and **monthly sales trends** — all in a single dashboard.
 
-Total Profit and Sales Overview – Displays overall and regional profit/sales performance.
+---
 
-Sales by Region – Compares sales across East, North, South, and West regions.
+## 🎯 Key Features
 
-Sales by Category – Shows revenue distribution for Beauty, Clothing, Electronics, Home Goods, and Sports.
+✅ **Regional Performance**
+- View total sales and profits for each region (East, West, North, South).  
+- Compare sales trends across regions using bar and line charts.
 
-Order Status Analysis – Pie chart representation of Completed, Pending, and Cancelled orders.
+✅ **Category Analysis**
+- Track total sales for each product category such as Beauty, Clothing, Electronics, Home Goods, and Sports.
 
-Monthly Trends – Line chart depicting monthly sales patterns throughout the year.
+✅ **Customer & Payment Insights**
+- Segment customers by type (New, Regular, VIP).  
+- Analyze sales by payment methods (Cash, Credit Card, Online Transfer).
 
-Top Region Managers & Performers – Ranks regional managers and sales representatives based on performance.
+✅ **Performance Indicators**
+- KPI cards showing Total Profit, Regional Sales, Total Sales, and Quantity of Units Sold.  
+- Order status distribution (Completed, Pending, Cancelled) via a donut chart.
 
-Interactive Filters – Slicers for filtering by:
+✅ **Time-Based Trends**
+- Monthly sales trend visualization for better forecasting and performance tracking.
 
-Customer Type (New, Regular, VIP)
+---
 
-Payment Type (Cash, Credit Card, Online Transfer)
+## 🧠 Tools & Technologies Used
+- **Microsoft Excel** (Pivot Tables, Charts, Slicers, Conditional Formatting)  
+- **Power Query** for data cleaning and transformation  
+- **Data Visualization** using Excel charts and dashboard design techniques  
 
-Regions (East, North, South, West)
+---
 
-⚙️ Tools & Techniques Used
+## 📈 Insights
 
-Microsoft Excel
+The South Region leads in total sales.
 
-Pivot Tables & Pivot Charts
+Sports and Home Goods categories generate the highest revenue.
 
-Data Cleaning and Transformation
+Around 47% of orders were completed on time.
 
-Slicers & Conditional Formatting
+800 total units sold across all regions.
 
-Dynamic Formulas (SUMIFS, COUNTIFS, IFERROR)
-
-Data Visualization & Dashboard Design
-
-📈 Key Insights
-
-South Region recorded the highest total sales.
-
-Sports category contributed the most to total revenue.
-
-47% of orders were completed successfully.
-
-Alice and Eve were top-performing sales executives.
-
+## 📸 Dashboard Preview
 
 <img width="1243" height="668" alt="image" src="https://github.com/user-attachments/assets/b34fcc53-02ee-4957-a803-03571a6dce66" />
 
@@ -65,5 +63,5 @@ Explore visuals to analyze sales performance and trends.
 🧑‍💻 Developed By
 
 Adarsh C
-📧 [adarshcrv@gmail.com]
+📧 adarshcrv@gmail.com
 💼 Aspiring Data Analyst | Excel | SQL | Power BI | Python
