@@ -66,7 +66,7 @@ Full-Time Employees: 20 | Part-Time: 13 | Contract: 17
 ## 🧑‍💼 Author
 ```
 Adarsh C
-📧 adarshc@example.com
+📧 adarshcrv@gmail.com
 💼 Aspiring Data Analyst | Excel & Visualization Enthusiast
 
 ```
